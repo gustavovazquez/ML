@@ -1,6 +1,6 @@
 Machine Learning
 - ISLP James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (2023). Springer (disponible [online](https://www.statlearning.com/)). 
-Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook,
+- Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook,
 Le Borgne Yann-Ael, Siblini Wissam, Lebichot, Bertrand, Bontempi, Gianluca (2022) [online](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook).
 
 | Semana |Tema | Lectura | Slides | Tarea | Cuestionario |
