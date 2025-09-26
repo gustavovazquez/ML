@@ -12,4 +12,4 @@ Le Borgne Yann-Ael, Siblini Wissam, Lebichot, Bertrand, Bontempi, Gianluca (2022
 | 5  | Ajuste hiperparámetros <br/>Ensembles - Bagging - Random Forest<br/>  |ISLP. Cap 8 <br/> Notas del curso| ISLP Slides Cap 8 | Tarea Integradora 01||
 | 6  | Resampling Methods - Ensembles - Boosting|ISLP. Cap 5 (hasta 5.2 incluído) | ISLP Slides Cap 5 | Tarea Integradora 02 |16/9|
 | 7  | Imbalanced datasets - Dump de modelos |- | - | Tarea Integradora 03 ||
-| 8  | tbd |- | - | - ||
+| 8  | Neural Networks |ISLP. Cap 10  (hasta 10.2 incluído)| - | - | 30/9 |
