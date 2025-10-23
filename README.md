@@ -15,3 +15,4 @@ Le Borgne Yann-Ael, Siblini Wissam, Lebichot, Bertrand, Bontempi, Gianluca (2022
 | 8  | Neural Networks |ISLP. Cap 10  (hasta 10.2 incluído)| - | 10.10.1 y 2 <br/> 10.10.7 | 30/9 |
 | 9  | Kaggle DataCamp || - | - | - |
 | 10  | NB - PLN - Embeddings |- | - | - | - |
+| 11  | Paper Reading <br/>MLFlow |- | - | - | - |
