@@ -16,3 +16,6 @@ Le Borgne Yann-Ael, Siblini Wissam, Lebichot, Bertrand, Bontempi, Gianluca (2022
 | 9  | Kaggle DataCamp || - | - | - |
 | 10  | NB - PLN - Embeddings |- | - | - | - |
 | 11  | Paper Reading <br/>MLFlow |- | - | - | - |
+| 12  | Feature Selection  |- | - | - | - |
+| 13  | Time Series  |- | - | - | - |
+
