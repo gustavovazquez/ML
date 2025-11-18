@@ -10,9 +10,9 @@ Se entregará un dataset con las siguientes columnas mínimas:
 
 - `customer_id`
 - `tx_datetime`
+- `terminal_id`
 - `amount`
 - `country`
-- `merchant_category`
 - `fraud` (0 = genuina, 1 = fraude)
 
 Las transacciones están ordenadas temporalmente por cliente.
@@ -32,14 +32,8 @@ Para cada transacción y por cada `customer_id`, calcular las siguientes variabl
 3. **Cantidad de transacciones en la última hora**  
    `count_tx_1h`
 
-4. **País más frecuente en las últimas 5 transacciones**  
-   `mode_country_last5`  
-   (codificar como variable numérica o “one-hot”)
-
-5. **Tiempo desde la última transacción**  
+4. **Tiempo desde la última transacción**  
    `seconds_since_last_tx`
-
-Los alumnos pueden utilizar `pandas` con *rolling windows*, *groupby* y *shifting* para garantizar que no se “vea el futuro”.
 
 ---
 
