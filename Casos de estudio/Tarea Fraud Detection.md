@@ -12,7 +12,6 @@ Se entregará un dataset con las siguientes columnas mínimas:
 - `tx_datetime`
 - `terminal_id`
 - `amount`
-- `country`
 - `fraud` (0 = genuina, 1 = fraude)
 
 Las transacciones están ordenadas temporalmente por cliente.
