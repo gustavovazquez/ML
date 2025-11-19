@@ -18,7 +18,7 @@ Le Borgne Yann-Ael, Siblini Wissam, Lebichot, Bertrand, Bontempi, Gianluca (2022
 | 11  | Paper Reading <br/>MLFlow |- | - | - | - |
 | 12  | Feature Selection  |- | - | - | - |
 | 13  | Time Series  | [Basics](https://www.youtube.com/watch?v=QyL4b88nLsg&list=PLIeGtxpvyG-I735qr28zD2dVOcAZ4h4xu) <br> [Visual Inroduction](https://www.youtube.com/watch?v=F4kYqir27Hk&list=PLIeGtxpvyG-I735qr28zD2dVOcAZ4h4xu&index=4) <br> [Formulation](https://www.youtube.com/watch?v=K9hBi-ZlrjQ&list=PLIeGtxpvyG-I735qr28zD2dVOcAZ4h4xu&index=5) | - | - | 11/11 |
-| 14  | Case Study - Fraud Detection  | [Basics]([https://www.youtube.com/watch?v=QyL4b88nLsg&list=PLIeGtxpvyG-I735qr28zD2dVOcAZ4h4xu]) | - | Tarea Integradora 05  | - |
+| 14  | Case Study - Fraud Detection  | [Basics]([[https://www.youtube.com/watch?v=QyL4b88nLsg&list=PLIeGtxpvyG-I735qr28zD2dVOcAZ4h4xu]([https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)]) [Práctica](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook)| - | Tarea Integradora 05  | - |
 | 15  | Paper Reading  | - | - | -  | - |
 | 16  | Evaluaciones  | - | - | -  | - |
 
