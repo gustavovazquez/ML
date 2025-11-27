@@ -19,6 +19,6 @@ Le Borgne Yann-Ael, Siblini Wissam, Lebichot, Bertrand, Bontempi, Gianluca (2022
 | 12  | Feature Selection  |- | - | - | - |
 | 13  | Time Series  | [Basics](https://www.youtube.com/watch?v=QyL4b88nLsg&list=PLIeGtxpvyG-I735qr28zD2dVOcAZ4h4xu) <br> [Visual Inroduction](https://www.youtube.com/watch?v=F4kYqir27Hk&list=PLIeGtxpvyG-I735qr28zD2dVOcAZ4h4xu&index=4) <br> [Formulation](https://www.youtube.com/watch?v=K9hBi-ZlrjQ&list=PLIeGtxpvyG-I735qr28zD2dVOcAZ4h4xu&index=5) | - | - | 11/11 |
 | 14  | Case Study - Fraud Detection  | [Reproducible ML for Credit Card Fraud Detection - Practical handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html) <br> [Práctica](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook)| - | Tarea Integradora 05  | - |
-| 15  | Paper Reading  | - | - | -  | - |
+| 15  | Paper Reading <br> Regularización | - | - | -  | - |
 | 16  | Evaluaciones  | - | - | -  | - |
 
